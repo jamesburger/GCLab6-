@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class PigLatin {
 
+	//Author: James Burger
+	//Grand Circus Lab 6
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 
